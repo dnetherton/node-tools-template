@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "globals": {
+  },
+  "rules": {
+    "complexity": ['error', 5],
+    "no-console": [0]
+  },
+  "extends": ["eslint-config-stickler"]
+}
